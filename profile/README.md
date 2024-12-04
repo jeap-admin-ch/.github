@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/jeap-admin-ch/.github/refs/heads/main/profile/header.png)
+![Header](./header.png)
 
 # jEAP - Java Enterprise Application Platform
 
