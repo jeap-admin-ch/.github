@@ -1,3 +1,5 @@
+![Header](https://github.com/jeap-admin-ch/repository/blob/main/profile/header.png)
+
 # jEAP - Java Enterprise Application Platform
 
 Welcome to the **Java Enterprise Application Platform (jEAP)**. jEAP provides a suite of
