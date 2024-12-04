@@ -18,20 +18,14 @@ functionality, with jEAP providing solutions for the reusable cross-functional a
 The umbrella repository at is a guide to the individual components of the jEAP suite. We recommend exploring each
 repository to understand how it can be applied to your projects.
 
----
-
 ## License
 
 jEAP is Open Source Software licensed under the [Apache License 2.0](./LICENSE) unless otherwise noted in a repository.
-
----
 
 ## Reporting Security Vulnerabilities
 
 If you would like to report a potential security issue in a jEAP repository, please follow the procedure described in
 [SECURITY.md](https://github.com/jeap-admin-ch/jeap/SECURITY.md).
-
----
 
 ## External contributions cannot be accepted currently
 
@@ -40,8 +34,6 @@ At this point in time, jEAP is released as open source software based on the
 
 We do not currently accept external contributions. Please refrain from providing code changes or pull requests as we are
 unable to accept them.
-
----
 
 ## Contact
 
