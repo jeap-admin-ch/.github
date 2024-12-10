@@ -20,12 +20,12 @@ repository to understand how it can be applied to your projects.
 
 ## License
 
-jEAP is Open Source Software licensed under the [Apache License 2.0](./LICENSE) unless otherwise noted in a repository.
+jEAP is Open Source Software licensed under the [Apache License 2.0](https://github.com/jeap-admin-ch/jeap/blob/main/LICENSE) unless otherwise noted in a repository.
 
 ## Reporting Security Vulnerabilities
 
 If you would like to report a potential security issue in a jEAP repository, please follow the procedure described in
-[SECURITY.md](https://github.com/jeap-admin-ch/jeap/SECURITY.md).
+[SECURITY.md](https://github.com/jeap-admin-ch/jeap/blob/main/SECURITY.md).
 
 ## External contributions cannot be accepted currently
 
