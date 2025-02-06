@@ -15,8 +15,8 @@ functionality, with jEAP providing solutions for the reusable cross-functional a
 
 ## Getting Started
 
-The umbrella repository at is a guide to the individual components of the jEAP suite. We recommend exploring each
-repository to understand how it can be applied to your projects.
+The README of the [umbrella repository](https://github.com/jeap-admin-ch/jeap) contains a list of the individual components of the jEAP suite.
+We recommend exploring each repository to understand how it can be applied to your projects.
 
 ## License
 
