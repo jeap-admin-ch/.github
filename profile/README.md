@@ -13,6 +13,20 @@ The jEAP suite provides developers with a set of ready-to-use solutions for comm
 applications using Spring Boot. Building on the blueprint provided by jEAP allows you to focus on business logic and
 functionality, with jEAP providing solutions for the reusable cross-functional aspects.
 
+## Documentation
+
+The full documentation is published at [jeap-admin-ch.github.io/docs/what-is-jeap](https://jeap-admin-ch.github.io/docs/what-is-jeap). Read the latest updates on the [jEAP blog](https://jeap-admin-ch.github.io/blog).
+
+The same content as Markdown, if you prefer to stay on GitHub:
+
+- [What is jEAP?](docs/what-is-jeap.md) — definition, core principles, value, and the problems jEAP solves.
+- [Using jEAP](docs/using-jeap.md) — the Maven parents and dependency management.
+- [App Building Blocks](docs/building-blocks/index.md) — the libraries, starters and microservices you compose from:
+    - [Libraries](docs/building-blocks/libraries/index.md)
+    - [Spring Boot Starters](docs/building-blocks/spring-boot-starters/index.md)
+    - [Reusable Microservices](docs/building-blocks/reusable-microservices/index.md)
+    - [Tooling & Registries](docs/building-blocks/tooling/index.md)
+
 ## Getting Started
 
 The README of the [umbrella repository](https://github.com/jeap-admin-ch/jeap) contains a list of the individual components of the jEAP suite.
