@@ -19,13 +19,13 @@ The full documentation is published at [jeap-admin-ch.github.io/docs/what-is-jea
 
 The same content as Markdown, if you prefer to stay on GitHub:
 
-- [What is jEAP?](docs/what-is-jeap.md) — definition, core principles, value, and the problems jEAP solves.
-- [Using jEAP](docs/using-jeap.md) — the Maven parents and dependency management.
-- [App Building Blocks](docs/building-blocks/index.md) — the libraries, starters and microservices you compose from:
-    - [Libraries](docs/building-blocks/libraries/index.md)
-    - [Spring Boot Starters](docs/building-blocks/spring-boot-starters/index.md)
-    - [Reusable Microservices](docs/building-blocks/reusable-microservices/index.md)
-    - [Tooling & Registries](docs/building-blocks/tooling/index.md)
+- [What is jEAP?](https://jeap-admin-ch.github.io/docs/what-is-jeap) — definition, core principles, value, and the problems jEAP solves.
+- [Using jEAP](https://jeap-admin-ch.github.io/docs/using-jeap) — the Maven parents and dependency management.
+- [App Building Blocks](https://jeap-admin-ch.github.io/docs/building-blocks) — the libraries, starters and microservices you compose from:
+    - [Libraries](https://jeap-admin-ch.github.io/docs/building-blocks/libraries)
+    - [Spring Boot Starters](https://jeap-admin-ch.github.io/docs/building-blocks/spring-boot-starters)
+    - [Reusable Microservices](https://jeap-admin-ch.github.io/docs/building-blocks/reusable-microservices)
+    - [Tooling & Registries](https://jeap-admin-ch.github.io/docs/building-blocks/tooling)
 
 ## Getting Started
 
